@@ -39,7 +39,7 @@ def count_moods(data):
 
 # LEVEL 2: Guess the mood
 
-# My roll number ends in 5, so I use 5 words in each list.
+
 
 happy_words = ["won", "friends", "surprise", "excited", "tasty"]
 sad_words = ["lost", "failed", "upset", "missed", "lonely"]
